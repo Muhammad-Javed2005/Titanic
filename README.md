@@ -55,6 +55,7 @@
 <br/>
 <div align="center"><samp>L A N G U A G E S</samp></div>
 <br/>
+
 <div align="center">
   <table align="center" style="border:none;">
     <tr>
@@ -77,6 +78,7 @@
 <br/>
 <div align="center"><samp>D A T A &nbsp; S C I E N C E &nbsp; &amp; &nbsp; V I S U A L I Z A T I O N</samp></div>
 <br/>
+
 <div align="center">
   <table align="center" style="border:none;">
     <tr>
@@ -115,50 +117,24 @@
 <br/>
 <div align="center"><samp>M A C H I N E &nbsp; L E A R N I N G</samp></div>
 <br/>
+
 <div align="center">
-  <table align="center" style="border:none;">
-    <tr>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-Learn"/>
-        <br>Scikit-Learn
-      </td>
-      <td align="center" width="96">
-        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4Ij48cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxMCIgZmlsbD0iIzBkMTExNyIgc3Ryb2tlPSIjMzhiZGY4IiBzdHJva2Utd2lkdGg9IjEuNSIvPjx0ZXh0IHg9IjI0IiB5PSIzMCIgZm9udC1mYW1pbHk9IkNvdXJpZXIgTmV3LG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzM4YmRmOCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+TFI8L3RleHQ+PC9zdmc+" width="48" height="48" alt="Lin. Regression"/>
-        <br>Lin. Regression
-      </td>
-      <td align="center" width="96">
-        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4Ij48cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxMCIgZmlsbD0iIzBkMTExNyIgc3Ryb2tlPSIjMzRkMzk5IiBzdHJva2Utd2lkdGg9IjEuNSIvPjx0ZXh0IHg9IjI0IiB5PSIzMCIgZm9udC1mYW1pbHk9IkNvdXJpZXIgTmV3LG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzM0ZDM5OSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+TG9nUjwvdGV4dD48L3N2Zz4=" width="48" height="48" alt="Log. Regression"/>
-        <br>Log. Regression
-      </td>
-      <td align="center" width="96">
-        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4Ij48cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxMCIgZmlsbD0iIzBkMTExNyIgc3Ryb2tlPSIjYTc4YmZhIiBzdHJva2Utd2lkdGg9IjEuNSIvPjx0ZXh0IHg9IjI0IiB5PSIzMCIgZm9udC1mYW1pbHk9IkNvdXJpZXIgTmV3LG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI2E3OGJmYSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+S05OPC90ZXh0Pjwvc3ZnPg==" width="48" height="48" alt="KNN"/>
-        <br>KNN
-      </td>
-      <td align="center" width="96">
-        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4Ij48cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxMCIgZmlsbD0iIzBkMTExNyIgc3Ryb2tlPSIjZjk3MzE2IiBzdHJva2Utd2lkdGg9IjEuNSIvPjx0ZXh0IHg9IjI0IiB5PSIzMCIgZm9udC1mYW1pbHk9IkNvdXJpZXIgTmV3LG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI2Y5NzMxNiIgdGV4dC1hbmNob3I9Im1pZGRsZSI+U1ZNPC90ZXh0Pjwvc3ZnPg==" width="48" height="48" alt="SVM"/>
-        <br>SVM
-      </td>
-      <td align="center" width="96">
-        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4Ij48cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxMCIgZmlsbD0iIzBkMTExNyIgc3Ryb2tlPSIjMjJjNTVlIiBzdHJva2Utd2lkdGg9IjEuNSIvPjx0ZXh0IHg9IjI0IiB5PSIzMCIgZm9udC1mYW1pbHk9IkNvdXJpZXIgTmV3LG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzIyYzU1ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+UkY8L3RleHQ+PC9zdmc+" width="48" height="48" alt="Random Forest"/>
-        <br>Random Forest
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4Ij48cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxMCIgZmlsbD0iIzBkMTExNyIgc3Ryb2tlPSIjZmI5MjNjIiBzdHJva2Utd2lkdGg9IjEuNSIvPjx0ZXh0IHg9IjI0IiB5PSIzMCIgZm9udC1mYW1pbHk9IkNvdXJpZXIgTmV3LG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI2ZiOTIzYyIgdGV4dC1hbmNob3I9Im1pZGRsZSI+WEdCPC90ZXh0Pjwvc3ZnPg==" width="48" height="48" alt="XGBoost"/>
-        <br>XGBoost
-      </td>
-      <td align="center" width="96">
-        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4Ij48cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxMCIgZmlsbD0iIzBkMTExNyIgc3Ryb2tlPSIjZTg3OWY5IiBzdHJva2Utd2lkdGg9IjEuNSIvPjx0ZXh0IHg9IjI0IiB5PSIzMCIgZm9udC1mYW1pbHk9IkNvdXJpZXIgTmV3LG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI2U4NzlmOSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+S008L3RleHQ+PC9zdmc+" width="48" height="48" alt="K-Means"/>
-        <br>K-Means
-      </td>
-    </tr>
-  </table>
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-252525?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Linear Regression](https://img.shields.io/badge/Linear_Regression-252525?style=for-the-badge&logo=python&logoColor=38bdf8)
+![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-252525?style=for-the-badge&logo=python&logoColor=34d399)
+![KNN](https://img.shields.io/badge/KNN-252525?style=for-the-badge&logo=python&logoColor=a78bfa)
+![SVM](https://img.shields.io/badge/SVM-252525?style=for-the-badge&logo=python&logoColor=f97316)
+![Random Forest](https://img.shields.io/badge/Random_Forest-252525?style=for-the-badge&logo=python&logoColor=22c55e)
+![XGBoost](https://img.shields.io/badge/XGBoost-252525?style=for-the-badge&logo=python&logoColor=fb923c)
+![K-Means](https://img.shields.io/badge/K--Means-252525?style=for-the-badge&logo=python&logoColor=e879f9)
+
 </div>
 
 <br/>
 <div align="center"><samp>D E E P &nbsp; L E A R N I N G</samp></div>
 <br/>
+
 <div align="center">
   <table align="center" style="border:none;">
     <tr>
@@ -174,52 +150,36 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/>
         <br>PyTorch
       </td>
-      <td align="center" width="96">
-        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4Ij48cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxMCIgZmlsbD0iIzBkMTExNyIgc3Ryb2tlPSIjNjBhNWZhIiBzdHJva2Utd2lkdGg9IjEuNSIvPjx0ZXh0IHg9IjI0IiB5PSIzMCIgZm9udC1mYW1pbHk9IkNvdXJpZXIgTmV3LG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzYwYTVmYSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QU5OPC90ZXh0Pjwvc3ZnPg==" width="48" height="48" alt="ANN"/>
-        <br>ANN
-      </td>
-      <td align="center" width="96">
-        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4Ij48cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxMCIgZmlsbD0iIzBkMTExNyIgc3Ryb2tlPSIjZjQ3MmI2IiBzdHJva2Utd2lkdGg9IjEuNSIvPjx0ZXh0IHg9IjI0IiB5PSIzMCIgZm9udC1mYW1pbHk9IkNvdXJpZXIgTmV3LG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI2Y0NzJiNiIgdGV4dC1hbmNob3I9Im1pZGRsZSI+Q05OPC90ZXh0Pjwvc3ZnPg==" width="48" height="48" alt="CNN"/>
-        <br>CNN
-      </td>
-      <td align="center" width="96">
-        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4Ij48cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxMCIgZmlsbD0iIzBkMTExNyIgc3Ryb2tlPSIjMzRkMzk5IiBzdHJva2Utd2lkdGg9IjEuNSIvPjx0ZXh0IHg9IjI0IiB5PSIzMCIgZm9udC1mYW1pbHk9IkNvdXJpZXIgTmV3LG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzM0ZDM5OSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+Uk5OPC90ZXh0Pjwvc3ZnPg==" width="48" height="48" alt="RNN"/>
-        <br>RNN
-      </td>
-      <td align="center" width="96">
-        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4Ij48cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxMCIgZmlsbD0iIzBkMTExNyIgc3Ryb2tlPSIjODE4Y2Y4IiBzdHJva2Utd2lkdGg9IjEuNSIvPjx0ZXh0IHg9IjI0IiB5PSIzMCIgZm9udC1mYW1pbHk9IkNvdXJpZXIgTmV3LG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzgxOGNmOCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+RE5OPC90ZXh0Pjwvc3ZnPg==" width="48" height="48" alt="DNN"/>
-        <br>DNN
-      </td>
-      <td align="center" width="96">
-        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4Ij48cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxMCIgZmlsbD0iIzBkMTExNyIgc3Ryb2tlPSIjZmJiZjI0IiBzdHJva2Utd2lkdGg9IjEuNSIvPjx0ZXh0IHg9IjI0IiB5PSIzMCIgZm9udC1mYW1pbHk9IkNvdXJpZXIgTmV3LG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI2ZiYmYyNCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+R0FOPC90ZXh0Pjwvc3ZnPg==" width="48" height="48" alt="GAN"/>
-        <br>GAN
-      </td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+
+![ANN](https://img.shields.io/badge/ANN-252525?style=for-the-badge&logo=python&logoColor=60a5fa)
+![CNN](https://img.shields.io/badge/CNN-252525?style=for-the-badge&logo=python&logoColor=f472b6)
+![RNN](https://img.shields.io/badge/RNN-252525?style=for-the-badge&logo=python&logoColor=34d399)
+![DNN](https://img.shields.io/badge/DNN-252525?style=for-the-badge&logo=python&logoColor=818cf8)
+![GAN](https://img.shields.io/badge/GAN-252525?style=for-the-badge&logo=python&logoColor=fbbf24)
+
 </div>
 
 <br/>
 <div align="center"><samp>N L P &nbsp; &amp; &nbsp; C O M P U T E R &nbsp; V I S I O N</samp></div>
 <br/>
+
+<div align="center">
+
+![NLP](https://img.shields.io/badge/NLP-252525?style=for-the-badge&logo=python&logoColor=94a3b8)
+![Text Cleaning](https://img.shields.io/badge/Text_Cleaning-252525?style=for-the-badge&logo=python&logoColor=7c3aed)
+![Vectorization](https://img.shields.io/badge/Vectorization-252525?style=for-the-badge&logo=python&logoColor=6d28d9)
+![Text Classification](https://img.shields.io/badge/Text_Classification-252525?style=for-the-badge&logo=python&logoColor=5b21b6)
+
+</div>
+
 <div align="center">
   <table align="center" style="border:none;">
     <tr>
-      <td align="center" width="96">
-        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4Ij48cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxMCIgZmlsbD0iIzBkMTExNyIgc3Ryb2tlPSIjOTRhM2I4IiBzdHJva2Utd2lkdGg9IjEuNSIvPjx0ZXh0IHg9IjI0IiB5PSIzMCIgZm9udC1mYW1pbHk9IkNvdXJpZXIgTmV3LG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzk0YTNiOCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+TkxQPC90ZXh0Pjwvc3ZnPg==" width="48" height="48" alt="NLP"/>
-        <br>NLP
-      </td>
-      <td align="center" width="96">
-        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4Ij48cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxMCIgZmlsbD0iIzBkMTExNyIgc3Ryb2tlPSIjN2MzYWVkIiBzdHJva2Utd2lkdGg9IjEuNSIvPjx0ZXh0IHg9IjI0IiB5PSIzMCIgZm9udC1mYW1pbHk9IkNvdXJpZXIgTmV3LG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzdjM2FlZCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+VEM8L3RleHQ+PC9zdmc+" width="48" height="48" alt="Text Cleaning"/>
-        <br>Text Cleaning
-      </td>
-      <td align="center" width="96">
-        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4Ij48cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxMCIgZmlsbD0iIzBkMTExNyIgc3Ryb2tlPSIjNjQ3NDhiIiBzdHJva2Utd2lkdGg9IjEuNSIvPjx0ZXh0IHg9IjI0IiB5PSIzMCIgZm9udC1mYW1pbHk9IkNvdXJpZXIgTmV3LG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzY0NzQ4YiIgdGV4dC1hbmNob3I9Im1pZGRsZSI+VmVjPC90ZXh0Pjwvc3ZnPg==" width="48" height="48" alt="Vectorization"/>
-        <br>Vectorization
-      </td>
-      <td align="center" width="96">
-        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4Ij48cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxMCIgZmlsbD0iIzBkMTExNyIgc3Ryb2tlPSIjNmQyOGQ5IiBzdHJva2Utd2lkdGg9IjEuNSIvPjx0ZXh0IHg9IjI0IiB5PSIzMCIgZm9udC1mYW1pbHk9IkNvdXJpZXIgTmV3LG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzZkMjhkOSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+VENsPC90ZXh0Pjwvc3ZnPg==" width="48" height="48" alt="Text Classification"/>
-        <br>Text Class.
-      </td>
       <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV"/>
         <br>OpenCV
@@ -231,6 +191,7 @@
 <br/>
 <div align="center"><samp>T O O L K I T</samp></div>
 <br/>
+
 <div align="center">
   <table align="center" style="border:none;">
     <tr>
